@@ -41,21 +41,30 @@ class Test{
   void(double d);
   
   }
+  
   ************************* Application without overloading example: **********************************************************
   *****************************************************************************************************************************
  
   
   class Operation{
     void sum2(int num1, int num2){}
+    
     void sum3(int num1, int num2, int num3){}
+    
     void sum4(int num1, int num2, int num3, num4){}
+    
   }
+  
    ************************* Application with overloading example: **********************************************************
   ***************************************************************************************************************************
   class Operation{
+  
     void sum(int num1, int num2){}
+    
     void sum(int num1, int num2, int num3){}
+    
     void sum(int num1, int num2, int num3, num4){}
+    
   }
   
   The compiler checks the method's signature(method name and method arguements) while compiling the code.It means while overloading the compiler
