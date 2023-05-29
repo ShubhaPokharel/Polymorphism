@@ -47,6 +47,7 @@ class Test{
  
   
   class Operation{
+  
     void sum2(int num1, int num2){}
     
     void sum3(int num1, int num2, int num3){}
