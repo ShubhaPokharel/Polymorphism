@@ -135,20 +135,29 @@ class Test{
      javap java.lang.String
    
    public java.lang.String toLowerCase(java.util.Locale);
+   
   public java.lang.String toLowerCase();
   
   public static java.lang.String valueOf(java.lang.Object);
+  
   public static java.lang.String valueOf(char[]);
+  
   public static java.lang.String valueOf(char[], int, int);
   
   public static java.lang.String copyValueOf(char[], int, int);
+  
   public static java.lang.String copyValueOf(char[]);
   
   public static java.lang.String valueOf(boolean);
+  
   public static java.lang.String valueOf(char);
+  
   public static java.lang.String valueOf(int);
+  
   public static java.lang.String valueOf(long);
+  
   public static java.lang.String valueOf(float);
+  
   public static java.lang.String valueOf(double);
   
   
