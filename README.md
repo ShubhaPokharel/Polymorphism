@@ -31,11 +31,13 @@ class Test{
   //overloading method: same method name but different argyments
   
   void m1(int num);
+  
   void m1(int num1, int num2;
   
   //overloaded method: same method name but different datatypes
   
   void m1(int num3);
+  
   void(double d);
   
   }
