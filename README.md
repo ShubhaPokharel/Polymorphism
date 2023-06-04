@@ -28,7 +28,7 @@ arguments or the same method name with the same number of arguments but differen
 Example --
 
 class Test{
-  //overloading method: same method name but different argyments
+  //overloading method: same method name but different arguments
   
   void m1(int num);
   
