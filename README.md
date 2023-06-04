@@ -131,7 +131,7 @@ class Test{
    
    To check the methods present in the class we use "javap" command.
    
-   Ex:   Finding some examples of method overloading from String class by using the below command : 
+   Ex:   Finding some examples of method overloading from String class by using the below command from command prompt or gitbash: 
    
      javap java.lang.String
    
