@@ -38,7 +38,7 @@ class Test{
   
   void m1(int num3);
   
-  void(double d);
+  void m1(double d);
   
   }
   
